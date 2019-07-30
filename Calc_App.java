@@ -30,10 +30,7 @@ public class Calc_App {
 	private static int sub(int x, int y) {
 		// TODO Auto-generated method stub
 		
-		if (x>y)
-			return x-y;
-		else
-			return y-x;
+		return 0;
 	}
 
 	private static int addition(int x, int y) {
